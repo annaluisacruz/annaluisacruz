@@ -21,7 +21,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-
+![PostgreSQL](https://shields.io)
+![Next.js](https://shields.io)
+![Express.js](https://shields.io)
 ---
 
 ### 📊 Estatísticas e Atividade Técnica
