@@ -4,8 +4,9 @@
 ### **Desenvolvedora | Me especializando em Desenvolvimento Web e Análise de dados**
 ---
 
-### Sobre mim || About me
-- Estudante do 4º período de Sistemas de Informação (Expectativa de Graduação: Dez/2028), atuando no desenvolvimento e na pesquisa em desenvolvimento web, automação com IA e realidade virtual aplicada à educação. (Hub de Educação Digital - Unimontes (FAPEMIG)) || Currently working on/studying: Fourth-semester Information Systems student (Expected Graduation: December 2028). Actively involved in research across web development, AI automation, and virtual reality applied to education. (Hub de Educação Digital - Unimontes (FAPEMIG))
+### Sobre mim | About me
+
+- Currently working on/studying: Fourth-semester Information Systems student (Expected Graduation: December 2028). Actively involved in research across web development, AI automation, and virtual reality applied to education. (Hub de Educação Digital - Unimontes (FAPEMIG)) | Estudante do 4º período de Sistemas de Informação (Expectativa de Graduação: Dez/2028), atuando no desenvolvimento e na pesquisa em desenvolvimento web, automação com IA e realidade virtual aplicada à educação. (Hub de Educação Digital - Unimontes (FAPEMIG)) |
 -  Foco: Design de UI/UX, Motion Design e Desenvolvimento Front-end, Análise de Dados com Python e Fundamentos de Ciência de Dados || Focus: UI/UX Design, Motion Design, and Frontend Development, Data Analysis with Python & Data Science Fundamentals
   
 - 📫 Contato Profissional: annaluisacruzs@gmail.com | www.linkedin.com/in/anna-luisa-cruz
