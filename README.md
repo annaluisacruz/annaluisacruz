@@ -28,7 +28,3 @@
 ![UI/UX](https://img.shields.io/badge/UI%2FUX%20Design-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ---
 
-### Stats
-
-
-</div>
