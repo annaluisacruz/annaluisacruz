@@ -1,7 +1,7 @@
 
-# Oi! Meu nome é Anna Luisa Cruz!
-### **Developer | Specializing in Web Development & Data Analysis**
-## **Desenvolvedora | Me especializando em Desenvolvimento Web e Análise de dados**
+# Hi! My name is Anna Luisa Cruz || Oi! Meu nome é Anna Luisa Cruz!
+## **Developer | Specializing in Web Development & Data Analysis**
+### **Desenvolvedora | Me especializando em Desenvolvimento Web e Análise de dados**
 ---
 
 ### Sobre mim || About me
