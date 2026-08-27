@@ -1,18 +1,18 @@
 
 # Oi! Meu nome é Anna Luisa Cruz!
-### **Software Engineer | Specializing in Web Development, AI Automation & Data Analysis**
-
+### **Developer | Specializing in Web Development & Data Analysis**
+## **Desenvolvedora | Me especializando em Desenvolvimento Web e Análise de dados**
 ---
 
-### 🚀 Sobre Mim
-- 🔭 Atualmente trabalhando/estudando em: **Sistemas de Informação e Pesquisa em Realidade Virtual no Ensino (Hub de Educação Digital - Unimontes)**
-- 🎯 Foco de Engenharia: **Desenvolvimento Web Dinâmico, Agentes de IA e Análise de Dados**
-- ⚡ Proposta de Valor: **Desenvolvimento de soluções web completas e automações inteligentes com foco em experiência do usuário e eficiência de dados**
+### Sobre mim || About me
+- Estudante do 4º período de Sistemas de Informação (Expectativa de Graduação: Dez/2028), atuando no desenvolvimento e na pesquisa em desenvolvimento web, automação com IA e realidade virtual aplicada à educação. (Hub de Educação Digital - Unimontes (FAPEMIG)) || Currently working on/studying: Fourth-semester Information Systems student (Expected Graduation: December 2028). Actively involved in research across web development, AI automation, and virtual reality applied to education. (Hub de Educação Digital - Unimontes (FAPEMIG))
+-  Foco: Design de UI/UX, Motion Design e Desenvolvimento Front-end, Análise de Dados com Python e Fundamentos de Ciência de Dados || Focus: UI/UX Design, Motion Design, and Frontend Development, Data Analysis with Python & Data Science Fundamentals**
+- 
 - 📫 Contato Profissional: annaluisacruzs@gmail.com | www.linkedin.com/in/anna-luisa-cruz
 
 ---
 
-### 🛠 Stack Tecnológica & Ferramentas
+###  Stack & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,14 +21,14 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![PostgreSQL](https://shields.io)
-![Next.js](https://shields.io)
-![Express.js](https://shields.io)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX%20Design-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ---
 
-### 📊 Estatísticas e Atividade Técnica
+### Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+
 </div>
