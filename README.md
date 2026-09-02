@@ -1,5 +1,5 @@
 
-# Hi! My name is Anna Luisa Cruz 
+# HELLO! I'm Anna Luisa!
 ## **Developer | Specializing in Web Development & Data Analysis**
 ### **Desenvolvedora | Me especializando em Desenvolvimento Web e Análise de dados**
 ---
